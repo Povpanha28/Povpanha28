@@ -1,53 +1,29 @@
-<h1 align="center">Hi 👋, I'm NgovsengPovpanha</h1>
-<h3 align="center">A second-year Software Engineering student at CADT</h3>
+# 👋 Hello, I'm Ngov Seng Povpanha! 
+
+### 🎓 About Me
+- 🏫 Second-year Software Engineering student at **CADT**
+- 💻 Passionate about full-stack development and database systems
+- 🌱 Currently learning **PostgreSQL** and **Mongoose**
+- 🚀 Always eager to learn new technologies and collaborate on interesting projects
+
+### 🛠️ Tech Stack
+**Frontend:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend/Databases:**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🌟 Notable Projects
+🎬 **[MovieX3](https://github.com/Thyrak12/MovieX3.git)** - A group project for movie enthusiasts  
+*(More projects coming soon!)*
+
+### 📫 Let's Connect
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sengkim28140@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngov-seng-povpanha-b9265536a/)
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 I’m currently a **second-year student** at **CADT**, majoring in **Software Engineering**  
-- 🌱 I’m currently learning **PostgreSQL** & **Mongoose**  
-- ⚡ Fun Fact: I love building sleek web interfaces and solving backend challenges!
-
----
-
-### 🚀 Technologies & Tools I Use
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-
-### 📚 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NgovsengPovpanha&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NgovsengPovpanha&theme=radical" />
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p>
-  <a href="sengkim28140@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=NgovsengPovpanha&color=brightgreen)
-
+⭐ From [NgovSengPovpanha](https://github.com/Thyrak12)
